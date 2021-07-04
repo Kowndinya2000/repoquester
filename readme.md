@@ -1,7 +1,7 @@
 # Steps to run the tool RepoQuester
 > 1. Install python libraries
 ````
-pip -r requirements.txt
+pip install -r requirements.txt
 ````
 > 2. Download ```cloc```
 ````
