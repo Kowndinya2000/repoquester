@@ -6,10 +6,12 @@ pip install -r requirements.txt
 > 2. Download ```cloc```
 ````
 https://github.com/AlDanial/cloc/tree/1.88#install-via-package-manager
+Example: For Debian or Ubuntu OS: sudo apt install cloc
 ````
 > 3. Download ```Ack```
 ```
 https://beyondgrep.com/install/
+Example: For Debian or Ubuntu OS: sudo apt install ack-grep 
 ```
 > 4. Open the file ```repo_urls``` 
 ````
